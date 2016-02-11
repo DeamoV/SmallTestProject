@@ -3,6 +3,7 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello Git";
+	cout << "Hello Git" << endl;
+	cout << "revert ni ma bi";
 	getchar();
 }
